@@ -12,3 +12,6 @@ To visualize the data, I created interactive line charts showcasing the happines
 >Which year had the highest spread of happiness scores, and which year had the most consistent happiness scores, according to the box plot?
 
 >Which country experienced the most significant improvement in its index rank from 2017 to 2020, according to the bar chart? And what was the difference in index rank for that country?
+<br>
+
+### Conclusion and Presentation of Analysis
